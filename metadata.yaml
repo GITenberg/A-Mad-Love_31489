@@ -1,0 +1,33 @@
+_repo: A-Mad-Love_31489
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Brame, Charlotte M.
+    aliases:
+    - Clay, Bertha M.
+    - Braeme, Charlotte Monica
+    - Brame, Charlotte Mary
+    birthdate: 1836
+    deathdate: 1884
+    gutenberg_agent_id: '878'
+    url: http://www.gutenberg.org/2009/agents/878
+description: Under a variety of pen names, author Charlotte M. Brame wrote hundreds
+  of romance short stories and novels in the mid- to late-nineteenth century. ""A
+  Mad Love"" is a wonderful tale of against-all-odds romance that will enthrall fans
+  of classic Victorian-era love stories.
+gutenberg_issued: '2010-03-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31489'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Man-woman relationships -- Fiction'
+title: A Mad Love
+url: http://www.gutenberg.org/ebooks/31489
